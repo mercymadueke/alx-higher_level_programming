@@ -1,1 +1,1 @@
-inherists
+base geometry
