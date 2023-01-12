@@ -1,1 +1,1 @@
-my list
+kind of class
