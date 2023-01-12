@@ -1,1 +1,1 @@
-kind of class
+inherists
