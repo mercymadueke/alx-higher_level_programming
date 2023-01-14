@@ -1,1 +1,1 @@
-square two
+my integer
