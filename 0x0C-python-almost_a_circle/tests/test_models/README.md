@@ -1,1 +1,1 @@
-test rectangle
+test square
